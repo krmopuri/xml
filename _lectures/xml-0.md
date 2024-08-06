@@ -8,7 +8,7 @@ title: (xml-0) Introduction
 # thumbnail: /static_files/path/to/image.jpg
 
 # optional
-tldr: "Course logistics and motivation toards Explainability in Machine Learning."
+tldr: "Course logistics and motivation towards Explainability in Machine Learning."
   
 # optional
 # set it to true if you don't want this lecture to appear in the updates section
